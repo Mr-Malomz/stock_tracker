@@ -1,16 +1,20 @@
 # stock_tracker
-
-A new Flutter project.
+A stock price tracker in Flutter using Appwrite’s database
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Install
 
-A few resources to get you started if this is your first Flutter project:
+In the project directory, you can run the script below to install project dependency:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+flutter pub get
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Then run the project using
+
+```
+flutter run
+```
+
+
