@@ -78,7 +78,7 @@ class _HomeState extends State<Home> {
                         MaterialStateProperty.all<Color>(Colors.blue),
                   ),
                   child: const Text(
-                    'Search',
+                    'Search and Save Stock',
                     style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
